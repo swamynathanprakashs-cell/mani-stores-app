@@ -1,0 +1,18 @@
+[
+    {
+        "id": "e6cdc522-a874-4599-a725-a86acb3a4ff3",
+        "name": "Aachi-products",
+        "description": "",
+        "image": "http://localhost:8080/media/categories/Aachi.jpg",
+        "is_active": true
+    },
+    {
+        "id": "2a102957-4066-4c62-84e6-c3342b7c2596",
+        "name": "sakthi-products",
+        "description": "",
+        "image": "http://localhost:8080/media/categories/sakthi-masala.png",
+        "is_active": true
+    }
+]
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NDIwMjA1LCJpYXQiOjE3NzY0MTk5MDUsImp0aSI6IjAwZjViYzc2OGYyMzQyZWE4ZjY4NmM1ZmMwYmEyNjkwIiwidXNlcl9pZCI6IjNlZGEyMmZkLTU5YmMtNDQwNi1iMThjLWQ4ZDA3Y2JhMzUwMCJ9.p3yi3auhYCxye4PtwWJIGAn4Wy-5PR1RLpon4gKlyPY

@@ -1,0 +1,31 @@
+{
+    "message": "Account created successfully",
+    "user": {
+        "id": "3eda22fd-59bc-4406-b18c-d8d07cba3500",
+        "full_name": "Test User",
+        "phone_number": "9876543210",
+        "email": "test@gmail.com",
+        "address": "123 Main Street, Chennai",
+        "created_at": "2026-04-17T07:41:51.945857Z"
+    },
+    "tokens": {
+        "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3NjQ5ODExMiwiaWF0IjoxNzc2NDExNzEyLCJqdGkiOiI5NDliNzRkZDA4OTU0YWZlOWU2NWYzMTAwYTVhYWM2ZiIsInVzZXJfaWQiOiIzZWRhMjJmZC01OWJjLTQ0MDYtYjE4Yy1kOGQwN2NiYTM1MDAifQ.YqFFe2JeOBcGqxIBRL5r_IXpDAk0xdBz9Upi8vyaNX8",
+        "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NDEyMDEyLCJpYXQiOjE3NzY0MTE3MTIsImp0aSI6IjVjYmRhNTU3MjBhZTRmZDc4MDZkNmUwMGJmMGI3ZjgzIiwidXNlcl9pZCI6IjNlZGEyMmZkLTU5YmMtNDQwNi1iMThjLWQ4ZDA3Y2JhMzUwMCJ9.RFrSwmh5xNHwMbT-3Y8NGJmxNnCKseVMT5cCnw_PYGs"
+    }
+}
+
+
+
+"user": {
+        "id": "3eda22fd-59bc-4406-b18c-d8d07cba3500",
+        "full_name": "Test User",
+        "phone_number": "9876543210",
+        "email": "test@gmail.com",
+        "address": "123 Main Street, Chennai",
+        "created_at": "2026-04-17T07:41:51.945857Z"
+    },
+    "tokens": {
+        "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3NjQ5ODM5NCwiaWF0IjoxNzc2NDExOTk0LCJqdGkiOiI3MDY1MjI3Mzk1YzU0ODQzOGExMGM1MGQwY2MxZmRhYiIsInVzZXJfaWQiOiIzZWRhMjJmZC01OWJjLTQ0MDYtYjE4Yy1kOGQwN2NiYTM1MDAifQ.wrkbgpyronE7snwmxmtKVSLOyufML4OCJEiWp_PaBgY",
+        "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzc2NDEyMjk0LCJpYXQiOjE3NzY0MTE5OTQsImp0aSI6IjBhODZiZjRhN2Y0NDRjNGM4OGFhYmRkNWZiMWM1MmNlIiwidXNlcl9pZCI6IjNlZGEyMmZkLTU5YmMtNDQwNi1iMThjLWQ4ZDA3Y2JhMzUwMCJ9.q04yUcYEGrAOUiDv52-nU23gjx4nSBMJr7XaNrphvEI"
+    }
+}

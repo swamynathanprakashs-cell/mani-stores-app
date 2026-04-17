@@ -1,0 +1,28 @@
+[
+    {
+        "id": "99ca6289-5e88-442a-8249-7289de207d00",
+        "name": "aachi-chicken-masala",
+        "description": "",
+        "price": "10.00",
+        "unit": "pack",
+        "stock_quantity": 100,
+        "is_available": true,
+        "image": "http://localhost:8080/media/products/AACHI-CHICKEN-MASALA.jpg",
+        "category": "e6cdc522-a874-4599-a725-a86acb3a4ff3",
+        "category_name": "Aachi-products",
+        "created_at": "2026-04-16T17:28:57.791319Z"
+    },
+    {
+        "id": "2ccb77bd-c3e0-49d7-bc55-81b75f916d41",
+        "name": "sakthi-mutton-masala",
+        "description": "",
+        "price": "10.00",
+        "unit": "pack",
+        "stock_quantity": 100,
+        "is_available": true,
+        "image": "http://localhost:8080/media/products/sakthi-masala-mutton-chukka-masala.png",
+        "category": "2a102957-4066-4c62-84e6-c3342b7c2596",
+        "category_name": "sakthi-products",
+        "created_at": "2026-04-16T17:34:22.053737Z"
+    }
+]
